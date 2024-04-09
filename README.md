@@ -18,7 +18,7 @@ Se você quiser contribuir com melhorias para este projeto, sinta-se à vontade 
 
 Para mais informações ou dúvidas sobre este projeto, entre em contato:
 
-Seu Nome
-Seu Email
+emilyrod0127@gmail.com
+GitHub[Emily Pessoa](https://github.com/emilypessoa/SequenciaFibonacci)
 
 
