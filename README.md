@@ -9,6 +9,7 @@ A sequência de Fibonacci é uma série de números onde cada número é a soma 
 ## Personalização
 
 Você pode personalizar o número de elementos da sequência de Fibonacci exibidos alterando o argumento passado para a função `fibonacci` no arquivo `sequencia.php`.
+Nesse codigo está o 10 mas você pode mudar.
 
 ## Contribuição
 
