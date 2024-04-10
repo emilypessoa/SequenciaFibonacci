@@ -6,10 +6,10 @@ Este é um pequeno projeto que demonstra como calcular os primeiros números da 
 
 A sequência de Fibonacci é uma série de números onde cada número é a soma dos dois números anteriores. A sequência começa com 0 e 1, e os próximos números são 1, 2, 3, 5, 8, 13, e assim por diante. Este projeto demonstra como calcular e exibir os primeiros números dessa sequência em uma página da web.
 
-## Personalização
-
-Você pode personalizar o número de elementos da sequência de Fibonacci exibidos alterando o argumento passado para a função `fibonacci` no arquivo `sequencia.php`.
-Nesse codigo está o 10 mas você pode mudar.
+## Como usar
+Abra o localhost e digite o elemento.
+Ex: 10
+Resultado: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
 
 ## Contribuição
 
